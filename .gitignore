@@ -1,0 +1,41 @@
+# Composer dependencies
+/vendor
+
+# Composer specific files
+composer.lock
+
+# PHPStorm project files
+.idea/
+
+# Vagrant specific files
+.vagrant/
+Vagrantfile
+
+# Laravel specific files
+.env
+Homestead.yaml
+Homestead.json
+.env.testing
+
+# Node modules
+node_modules/
+
+# npm debug log
+npm-debug.log
+
+# Logs
+*.log
+*.log.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+*.iml
+*.ipr
+*.iws
+
+# XAMPP specific files
+*.sql
+*.sqlite

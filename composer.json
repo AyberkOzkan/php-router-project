@@ -1,0 +1,17 @@
+{
+    "name": "ayberk/php-router-project",
+    "description": "A simple PHP router project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ayberk Özkan",
+            "email": "kenan.ayberk@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
